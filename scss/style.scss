@@ -741,9 +741,9 @@ h1, h2, h3, h4, h5,
 	}
 	.founder{
 		.img{
-			width: 70px;
-			height: 70px;
-			@include border-radius(50%);
+			width: 100px;
+			height: 130px;
+			@include border-radius(20%);
 		}
 		.text{
 			width: calc(100%-70px);

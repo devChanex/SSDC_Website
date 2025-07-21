@@ -8551,12 +8551,12 @@ h1, h2, h3, h4, h5,
     .wrap-about {
       padding-left: 6em; } }
   .wrap-about .founder .img {
-    width: 70px;
-    height: 70px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    border-radius: 50%; }
+    width: 100px;
+    height: 120px;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    border-radius: 20%; }
   .wrap-about .founder .text {
     width: calc(100%-70px); }
   .wrap-about .founder h3 {
